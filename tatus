@@ -1,0 +1,17 @@
+[33mcommit 468f1f85573382dabc6e2ec5158de2a9dc44b1fb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mnew-feature[m[33m)[m
+Author: fredah014 <wanjirunjue7@gmail.com>
+Date:   Wed Oct 16 13:13:29 2024 +0300
+
+    add the seq.py scrpt
+
+[33mcommit bd05e4ac2b694094ea6717dad3c2cce8069d7b59[m
+Author: fredah014 <wanjirunjue7@gmail.com>
+Date:   Wed Oct 16 13:11:07 2024 +0300
+
+    Add all chunk files
+
+[33mcommit e013178f8a96c01472bc27e00778e1b348bed637[m[33m ([m[1;32mmaster[m[33m)[m
+Author: fredah014 <wanjirunjue7@gmail.com>
+Date:   Wed Oct 16 13:01:28 2024 +0300
+
+    add sequence chunks to seperate files
